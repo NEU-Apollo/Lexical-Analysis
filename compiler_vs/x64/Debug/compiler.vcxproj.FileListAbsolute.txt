@@ -1,0 +1,2 @@
+C:\Users\weijc\Desktop\vs\compiler\x64\Debug\compiler.exe
+C:\Users\weijc\Desktop\vs\compiler_vs\x64\Debug\compiler.exe
